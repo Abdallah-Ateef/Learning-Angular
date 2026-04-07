@@ -1,0 +1,13 @@
+{
+  "[markdown]": {
+    "editor.formatOnSave": true
+  },
+  "mcp": {
+    "servers": {
+      "figma": {
+        "command": "npx",
+        "args": ["-y", "@figma/mcp"]
+      }
+    }
+  }
+}
